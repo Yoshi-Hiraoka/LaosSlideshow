@@ -9,11 +9,11 @@
   const stop = document.getElementById('stop');
 
   const images = [
-    'img/img0.jpg',
-    'img/img1.jpg',
-    'img/img2.jpg',
-    'img/img3.jpg',
-    'img/img4.jpg',
+    'https://github.com/Yoshi-Hiraoka/LaosSlideshow/blob/master/img0.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/LaosSlideshow/blob/master/img1.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/LaosSlideshow/blob/master/img2.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/LaosSlideshow/blob/master/img3.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/LaosSlideshow/blob/master/img4.jpg?raw=true',
   ];
 
   let currentNum = 0;
