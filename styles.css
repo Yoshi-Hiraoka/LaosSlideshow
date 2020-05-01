@@ -6,6 +6,10 @@ body {
 #thumbnails img {
   width: 150px;
   height: 100px;
+  cursor: pointer;
+}
+button {
+  cursor:pointer;
 }
 #thumbnails img:not(:first-child) {
   margin-left: 8px;
