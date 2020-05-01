@@ -1,0 +1,16 @@
+body {
+  margin: 10px auto;
+  text-align: center;
+}
+
+#thumbnails img {
+  width: 150px;
+  height: 100px;
+}
+#thumbnails img:not(:first-child) {
+  margin-left: 8px;
+}
+#main img {
+  width: 750px;
+  height: 500px;
+}
